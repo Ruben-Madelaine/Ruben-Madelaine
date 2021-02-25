@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Ruben-Madelaine/Ruben-Madelaine/master/gh-image.png">
 
 I'm passionnate about IT and Tech in general.<br/>
-I enjoy working with Python🐍, Visual Basic and I love Linux🐧.
+I enjoy working with Python🐍, Visual Basic and I love Linux🐧.<br/>
 I am interested in open-source and Quantum Computing projects.  
 
 ## Find me around the web 🌎: <a href="https://raw.githubusercontent.com/Ruben-Madelaine/Ruben-Madelaine/master/simple.png"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/Ruben-Madelaine/Ruben-Madelaine/master/simple.png"></a>
