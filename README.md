@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Ruben-Madelaine/Ruben-Madelaine/master/gh-image.png">
 
-I am an auditor in digital transformation and I'm passionnate about IT.<br/>
+I'm passionnate about IT and Tech in general.<br/>
 I enjoy working with Python🐍, Visual Basic and JavaScript.  
 I love Linux🐧 and I am interested in open-source and Quantum Computing projects.  
 
